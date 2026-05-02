@@ -1,9 +1,7 @@
-<!--
-**dinndondin/dinndondin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: she/her
 
 # 💫 About Me:
-Estudiante de Ingeniería Comercial en la Universidad Católica del Norte, interesada en ciencia de datos aplicada a la economía y el comportamiento humano. Me enfoco en analizar patrones en datos —como preferencias en películas y variables demográficas— para entender cómo toman decisiones las personas. Disfruto explorar la intersección entre datos, arte y comportamiento, abordando los modelos como sistemas complejos con múltiples variables.<br><br>Business and Economics student at Universidad Católica del Norte, interested in data science applied to economics and human behavior. I focus on analyzing patterns in data —such as movie preferences and demographic variables— to understand how people make decisions. I enjoy exploring the intersection of data, art, and behavior, treating models as complex systems with multiple variables.
+Estudiante de Ingeniería Comercial en la Universidad Católica del Norte, interesada en ciencia de datos aplicada a la economía y el comportamiento humano. Me enfoco en analizar patrones en datos (como preferencias en películas y variables demográficas) para entender cómo toman decisiones las personas. Disfruto explorar la intersección entre datos, arte y comportamiento, abordando los modelos como sistemas complejos con múltiples variables.<br><br>Business and Economics student at Universidad Católica del Norte, interested in data science applied to economics and human behavior. I focus on analyzing patterns in data —such as movie preferences and demographic variables— to understand how people make decisions. I enjoy exploring the intersection of data, art, and behavior, treating models as complex systems with multiple variables.
 
 
 ## 🌐 Socials:
