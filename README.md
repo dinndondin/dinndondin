@@ -14,11 +14,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ## 📊 GitHub Profile
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinndondin&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinndondin&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=dinndondin&theme=radical)
 
   ## 💰 You can help me by Donating
